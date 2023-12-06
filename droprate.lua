@@ -2824,6 +2824,8 @@ local DropRateData = {
 				[209690 ] = 20, -- Shadowscale Coif
 				[211510 ] = 20, -- Twilight Slayer's Cowl
 				[209691 ] = 20, -- Vampiric Boot Knife
+				[209534 ] = 8, -- Azshari Arbalest
+				[209562 ] = 8, -- Deadly Strike of the Hydra
 	},
 }
 --##END-DATA##

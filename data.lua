@@ -5702,6 +5702,8 @@ data["BlackfathomDeeps(Raid)"] = {
 				{ 8,  209690 }, -- Shadowscale Coif
 				{ 9,  211510 }, -- Twilight Slayer's Cowl
 				{ 10,  209691 }, -- Vampiric Boot Knife
+				{ 11,  209534 }, -- Azshari Arbalest
+				{ 12,  209562 }, -- Deadly Strike of the Hydra
 			},
 		},
 		{ -- BFDTrash
