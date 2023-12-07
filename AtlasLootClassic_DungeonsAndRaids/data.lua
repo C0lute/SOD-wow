@@ -5556,6 +5556,7 @@ data["BlackfathomDeeps(Raid)"] = {
 				{ 8,  209675 }, -- Clamweave Tunic
 				{ 9,  209424 }, -- Shell Plate Barrier
 				{ 10,  3210 }, -- Brutal War Axe
+				
 			},
 		},
 		{ -- BFDLadySarevess
