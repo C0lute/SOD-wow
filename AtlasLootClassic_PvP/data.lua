@@ -450,20 +450,16 @@ data["WarsongGulch"] = {
 				{ 4,  21566 }, -- Rune of Perfection
 				{ 5,  19062 }, -- Warsong Gulch Field Ration
 				{ 6,  19068 }, -- Warsong Gulch Silk Bandage
-				{ 7,  211498 }, -- Trainee's Sentinel Nightsaber
-				{ 8,  211856 }, -- Resilient Mail Coif
-				{ 9,  211857 }, -- Resilient Leather Mask
-				{ 10,  211500 }, -- Resilient Cloth Headband
-				{ 11, "INV_Box_01", nil, "30 - 39", nil }, -- WSGRepFriendly3039
-				{ 12,  19061 }, -- Warsong Gulch Iron Ration
-				{ 13,  19067 }, -- Warsong Gulch Mageweave Bandage
-				{ 14,  17349 }, -- Superior Healing Draught
-				{ 15, 17352 }, -- Superior Mana Draught
-				{ 16, "INV_Box_01", nil, "40 - 49", nil }, -- WSGRepFriendly4049
-				{ 17,  21567 }, -- Rune of Duty
-				{ 18,  21565 }, -- Rune of Perfection
-				{ 19,  19060 }, -- Warsong Gulch Enriched Ration
-				{ 20,  19066 }, -- Warsong Gulch Runecloth Bandage
+				{ 8, "INV_Box_01", nil, "30 - 39", nil }, -- WSGRepFriendly3039
+				{ 9,  19061 }, -- Warsong Gulch Iron Ration
+				{ 10,  19067 }, -- Warsong Gulch Mageweave Bandage
+				{ 11,  17349 }, -- Superior Healing Draught
+				{ 12, 17352 }, -- Superior Mana Draught
+				{ 17, "INV_Box_01", nil, "40 - 49", nil }, -- WSGRepFriendly4049
+				{ 18,  21567 }, -- Rune of Duty
+				{ 19,  21565 }, -- Rune of Perfection
+				{ 20,  19060 }, -- Warsong Gulch Enriched Ration
+				{ 21,  19066 }, -- Warsong Gulch Runecloth Bandage
 			},
 			[HORDE_DIFF] = {
 				{ 1, "f889rep5" },
@@ -472,20 +468,16 @@ data["WarsongGulch"] = {
 				{ 4, 21566 }, -- Rune of Perfection
 				{ 5, 19062 }, -- Warsong Gulch Field Ration
 				{ 6, 19068 }, -- Warsong Gulch Silk Bandage
-				{ 7,  211499 }, -- Trainee's Outrider Wolf
-				{ 8,  211856 }, -- Resilient Mail Coif
-				{ 9,  211857 }, -- Resilient Leather Mask
-				{ 10,  211500 }, -- Resilient Cloth Headband
-				{ 11, "INV_Box_01", nil, "30 - 39", nil }, -- WSGRepFriendly3039
-				{ 12, 19061 }, -- Warsong Gulch Iron Ration
-				{ 13, 19067 }, -- Warsong Gulch Mageweave Bandage
-				{ 14, 17349 }, -- Superior Healing Draught
-				{ 15, 17352 }, -- Superior Mana Draught
-				{ 16, "INV_Box_01", nil, "40 - 49", nil }, -- WSGRepFriendly4049
-				{ 17, 21567 }, -- Rune of Duty
-				{ 18, 21565 }, -- Rune of Perfection
-				{ 19, 19060 }, -- Warsong Gulch Enriched Ration
-				{ 20, 19066 }, -- Warsong Gulch Runecloth Bandage
+				{ 8, "INV_Box_01", nil, "30 - 39", nil }, -- WSGRepFriendly3039
+				{ 9, 19061 }, -- Warsong Gulch Iron Ration
+				{ 10, 19067 }, -- Warsong Gulch Mageweave Bandage
+				{ 11, 17349 }, -- Superior Healing Draught
+				{ 12, 17352 }, -- Superior Mana Draught
+				{ 17, "INV_Box_01", nil, "40 - 49", nil }, -- WSGRepFriendly4049
+				{ 18, 21567 }, -- Rune of Duty
+				{ 19, 21565 }, -- Rune of Perfection
+				{ 20, 19060 }, -- Warsong Gulch Enriched Ration
+				{ 21, 19066 }, -- Warsong Gulch Runecloth Bandage
 			},
 		},
 		PVP_RANKS,
@@ -779,33 +771,30 @@ data["Armor"] = {
 			[ALLIANCE_DIFF] = {
 				{ 1,  18664 }, -- A Treatise on Military Ranks
 
-				{ 2, 18443 }, -- Master Sergeant's Insignia
-				{ 3, 18444 }, -- Master Sergeant's Insignia
-				{ 4, 18442 }, -- Master Sergeant's Insignia
+				{ 3, 18443 }, -- Master Sergeant's Insignia
+				{ 4, 18444 }, -- Master Sergeant's Insignia
+				{ 5, 18442 }, -- Master Sergeant's Insignia
 
-				{ 5, 18456 }, -- Sergeant Major's Silk Cuffs
-				{ 6, 18457 }, -- Sergeant Major's Silk Cuffs
+				{ 7, 18456 }, -- Sergeant Major's Silk Cuffs
+				{ 8, 18457 }, -- Sergeant Major's Silk Cuffs
 
-				{ 7, 18452 }, -- Sergeant Major's Leather Armsplints
-				{ 8, 18453 }, -- Sergeant Major's Leather Armsplints
+				{ 10, 18452 }, -- Sergeant Major's Leather Armsplints
+				{ 11, 18453 }, -- Sergeant Major's Leather Armsplints
 
-				{ 9, 18448 }, -- Sergeant Major's Chain Armguards
-				{ 10, 18449 }, -- Sergeant Major's Chain Armguards
+				{ 13, 18448 }, -- Sergeant Major's Chain Armguards
+				{ 14, 18449 }, -- Sergeant Major's Chain Armguards
 
-				{ 11,  15196 }, -- Private's Tabard
+				{ 16,  15196 }, -- Private's Tabard
 
-				{ 12, 16342 }, -- Sergeant's Cape
-				{ 13, 16337 }, -- Sergeant's Cape
-				{ 14, 18441 }, -- Sergeant's Cape
-				{ 15, 16336 }, -- Sergeant's Cape
-				{ 16, 18440 }, -- Sergeant's Cape
-				{ 17, 16315 }, -- Sergeant's Cape
+				{ 18, 16342 }, -- Sergeant's Cape
+				{ 19, 18441 }, -- Sergeant's Cape
+				{ 20, 18440 }, -- Sergeant's Cape
 
-				{ 18, 18445 }, -- Sergeant Major's Plate Wristguards
-				{ 19, 18447 }, -- Sergeant Major's Plate Wristguards
+				{ 22, 18445 }, -- Sergeant Major's Plate Wristguards
+				{ 23, 18447 }, -- Sergeant Major's Plate Wristguards
 
-				{ 20, 18454 }, -- Sergeant Major's Dragonhide Armsplints
-				{ 21, 18455 }, -- Sergeant Major's Dragonhide Armsplints
+				{ 25, 18454 }, -- Sergeant Major's Dragonhide Armsplints
+				{ 26, 18455 }, -- Sergeant Major's Dragonhide Armsplints
 
 			},
 			[HORDE_DIFF] = {
@@ -829,7 +818,6 @@ data["Armor"] = {
 				{ 18, 18461 }, -- Sergeant's Cloak
 				{ 19, 16341 }, -- Sergeant's Cloak
 				{ 20, 18427 }, -- Sergeant's Cloak
-				{ 21, 213088 }, -- Sergeant's Cloak
 
 				{ 22, 16532 }, -- First Sergeant's Mail Wristguards
 				{ 23, 18432 }, -- First Sergeant's Mail Wristguards
@@ -958,6 +946,27 @@ data["Insignia"] = {
 				{ 6,  18853 }, -- Druid
 				{ 7,  18845 }, -- Shaman
 				{ 8,  18850 }, -- Mage
+			},
+		},
+		PVP_RANKS,
+	},
+}
+data["SoD Exclusives"] = {
+	name = AL["SoD Exclusives"],
+	ContentType = GENERAL_CONTENT,
+	LoadDifficulty = LOAD_DIFF,
+	ContentPhase = 1,
+	items = {
+		{
+			name = AL["SoD Phase 1 Items"],
+			[NORMAL_DIFF] = {
+				{ 1,  211500 }, --Resilient Cloth Headband
+				{ 2,  211857 }, --Resilient Leather Mask
+				{ 3,  211856 }, --Resilient Mail Coif
+				{ 5,  211498 }, --Trainee's Sentinel Nightsaber
+				{ 6,  211499 }, --Trainee's Outrider Wolf
+				{ 16,  213088 }, --Sergeant's Cloak
+				{ 17,  213087 }, --Sergeant's Cloak
 			},
 		},
 		PVP_RANKS,
